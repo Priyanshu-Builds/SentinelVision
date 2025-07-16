@@ -1,6 +1,11 @@
+
 # Sentinel Vision: AI-Driven Night Vision Surveillance with Intelligent Motion Analytics and Adaptive Storage
 
 SentinelVision is a smart surveillance system that leverages an optimized, lightweight CNN for real-time threat detection on resource-constrained devices. The project includes modules for video capture, image preprocessing, threat detection, adaptive storage of key frames, and AWS integration (for S3 uploads and CloudWatch logging). An AWS Lambda function is also provided for dynamic resolution scaling of incoming images.
+
+# Suspicious activity detection
+
+<img width="1112" height="626" alt="image" src="https://github.com/user-attachments/assets/512691c7-2060-408a-b116-6bdfc53d9518" />
 
 ## Project Structure
 
