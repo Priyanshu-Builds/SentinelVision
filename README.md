@@ -9,11 +9,11 @@ SentinelVision is a smart surveillance system that leverages an optimized, light
 
 ## Adaptive Storage
 
-<img width="704" height="590" alt="image" src="https://github.com/user-attachments/assets/f6e84aeb-3271-4447-89c0-5698567ddb6e" />
+<img width="1078" height="443" alt="image" src="https://github.com/user-attachments/assets/c16812d6-28b1-4974-b0c6-ca3f1d44a32e" />
 
 ## Implementation
 
-<img width="773" height="634" alt="image" src="https://github.com/user-attachments/assets/182fb3b4-6cda-41b4-b429-cb4cdeaf0b73" />
+<img width="704" height="590" alt="image" src="https://github.com/user-attachments/assets/f6e84aeb-3271-4447-89c0-5698567ddb6e" />
 
 ## Project Structure
 
