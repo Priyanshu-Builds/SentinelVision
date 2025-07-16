@@ -3,9 +3,17 @@
 
 SentinelVision is a smart surveillance system that leverages an optimized, lightweight CNN for real-time threat detection on resource-constrained devices. The project includes modules for video capture, image preprocessing, threat detection, adaptive storage of key frames, and AWS integration (for S3 uploads and CloudWatch logging). An AWS Lambda function is also provided for dynamic resolution scaling of incoming images.
 
-# Suspicious activity detection
+## Suspicious activity detection
 
 <img width="1112" height="626" alt="image" src="https://github.com/user-attachments/assets/512691c7-2060-408a-b116-6bdfc53d9518" />
+
+## Adaptive Storage
+
+<img width="704" height="590" alt="image" src="https://github.com/user-attachments/assets/f6e84aeb-3271-4447-89c0-5698567ddb6e" />
+
+## Implementation
+
+<img width="773" height="634" alt="image" src="https://github.com/user-attachments/assets/182fb3b4-6cda-41b4-b429-cb4cdeaf0b73" />
 
 ## Project Structure
 
